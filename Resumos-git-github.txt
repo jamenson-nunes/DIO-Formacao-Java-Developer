@@ -1,0 +1,37 @@
+## Configurando GIt##
+
+git config --global user.name "jamenson-nunes"
+
+git config --global user.name "jamenson.nunes@gmail.com"
+
+Transformando pasta local em git
+criando diretorio 
+mkdir  - nome do diretorio
+
+
+
+#Clonando repositorio #
+
+git clone + endereço do repositorio
+
+#verificar configuiração do repositorio#
+
+cat config 
+
+#vincular pasta com diretorio remoto
+
+#verificar diretorios remotos vinculados
+
+git remote -v
+
+git remote add origin https://github.com/jamenson-nunes/DIO-Formacao-Java-Developer.git
+
+git branch -m main
+git push -w origin main
+Criando reade me 
+
+readme	so
+
+#desfazendo alterações no repositório local
+
+git remote add origin 
