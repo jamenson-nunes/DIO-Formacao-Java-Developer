@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TiposEvariaveis1",
+            "request": "launch",
+            "mainClass": "TiposEvariaveis1",
+            "projectName": "DIO-Formacao-Java-Developer_af8203ad"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
