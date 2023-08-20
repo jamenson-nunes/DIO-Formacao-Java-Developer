@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiaDasClasses1",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.src.AnatomiaDasClasses1",
+            "projectName": "DIO-Formacao-Java-Developer_af8203ad"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiaDasClasses2",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.src.AnatomiaDasClasses2",
+            "projectName": "DIO-Formacao-Java-Developer_af8203ad"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiaDasClasses4",
+            "request": "launch",
+            "mainClass": "AnatomiaDasClasses.src.AnatomiaDasClasses4",
+            "projectName": "DIO-Formacao-Java-Developer_af8203ad"
+        },
+        {
+            "type": "java",
+            "name": "TiposEvariaveis1",
+            "request": "launch",
+            "mainClass": "TiposEvariaveis.TiposEvariaveis1",
+            "projectName": "DIO-Formacao-Java-Developer_af8203ad"
+        }
+    ]
+}
